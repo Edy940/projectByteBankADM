@@ -1,0 +1,16 @@
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\bin\Debug\net5.0\bytebank_ADM.exe
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\bin\Debug\net5.0\bytebank_ADM.deps.json
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\bin\Debug\net5.0\bytebank_ADM.runtimeconfig.json
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\bin\Debug\net5.0\bytebank_ADM.runtimeconfig.dev.json
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\bin\Debug\net5.0\bytebank_ADM.dll
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\bin\Debug\net5.0\ref\bytebank_ADM.dll
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\bin\Debug\net5.0\bytebank_ADM.pdb
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.csproj.AssemblyReference.cache
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.AssemblyInfoInputs.cache
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.AssemblyInfo.cs
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.dll
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\ref\bytebank_ADM.dll
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.pdb
+D:\ProjectByteBankCSharp\bytebank_ADM\bytebank_ADM\obj\Debug\net5.0\bytebank_ADM.genruntimeconfig.cache
